@@ -31,6 +31,10 @@ The script establishes a serial connection with the Cisco switch using the speci
 - Python 3.x
 - Required Python packages: serial, tkinter, getpass
 
+## Demo
+
+https://youtu.be/kBGitakgDS8
+
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
